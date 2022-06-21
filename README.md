@@ -8,7 +8,7 @@
 
 <!-- subtitle -->
 
-A template for an awesome list with required conventions out of the box!
+A list of example projects, useful to learn from and for bootstrapping new documentation projects. Plus cool real-life usages of Read the Docs.
 
 <!-- image -->
 
@@ -27,9 +27,10 @@ on [readthedocs.org](https://readthedocs.org/) and [readthedocs.com](https://rea
 
 ## Contents
 
-- [Featured (new releases)](#featured-new-releases)
-- [Section 1](#section-1)
-- [Follow](#follow)
+- [Example projects](#example-projects)
+- [Real-life projects](#real-life-projects)
+- [Contributing](#contributing)
+- [Contributors](#contributors)
 
 <!-- CONTENT -->
 
