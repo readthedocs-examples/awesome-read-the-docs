@@ -4,7 +4,7 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome Read the Docs projects [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/readthedocs-examples/.github/actions/workflows/lint.yaml/badge.svg)](https://github.com/readthedocs-examples/.github/actions/workflows/lint.yaml)
+# Awesome Read the Docs Projects [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/readthedocs-examples/.github/actions/workflows/lint.yaml/badge.svg)](https://github.com/readthedocs-examples/.github/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
