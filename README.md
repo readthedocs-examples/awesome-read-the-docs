@@ -12,7 +12,7 @@ A list of example projects, useful to learn from and for bootstrapping new docum
 
 <!-- image -->
 
-<a href="https://readthedocs.org/" target="_blank" rel="noopener noreferrer">
+<a href="https://docs.readthedocs.io/en/stable/tutorial/index.html" target="_blank" rel="noopener noreferrer">
   <img src="./illustration.png" />
 </a>
 
