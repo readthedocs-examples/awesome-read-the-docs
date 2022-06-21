@@ -29,8 +29,6 @@ on [readthedocs.org](https://readthedocs.org/) and [readthedocs.com](https://rea
 
 - [Example projects](#example-projects)
 - [Real-life projects](#real-life-projects)
-- [Contributing](#contributing)
-- [Contributors](#contributors)
 
 <!-- CONTENT -->
 
