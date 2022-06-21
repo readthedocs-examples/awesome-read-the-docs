@@ -4,7 +4,7 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/actions/workflows/lint.yaml/badge.svg)](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/actions/workflows/lint.yaml)
+# Awesome Read the Docs projects [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/readthedocs-examples/.github/actions/workflows/lint.yaml/badge.svg)](https://github.com/readthedocs-examples/.github/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
@@ -12,15 +12,14 @@ A template for an awesome list with required conventions out of the box!
 
 <!-- image -->
 
-<a href="" target="_blank" rel="noopener noreferrer">
-  <img src="" />
+<a href="https://readthedocs.org/" target="_blank" rel="noopener noreferrer">
+  <img src="./illustration.png" />
 </a>
 
 <!-- description -->
 
-A one line description of the product or tool. See
-[awesome-firebase](https://github.com/jthegedus/awesome-firebase) for an
-example.
+Read the Docs is a fully open-source platform that builds and publishes documentation. Read more
+on [readthedocs.org](https://readthedocs.org/) and [readthedocs.com](https://readthedocs.com/) (Read the Docs for Business).
 
 </div>
 
@@ -34,21 +33,15 @@ example.
 
 <!-- CONTENT -->
 
-## Featured (new releases)
+## Example projects
 
 - [Apple](https://apple.com) - Apple as a placeholder.
 
-## Section 1
+## Real-life projects
 
 - [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
 
 <!-- END CONTENT -->
-
-## Follow
-
-<!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
-
-Who else should we be following!?
 
 ## Contributing
 
@@ -56,4 +49,4 @@ Who else should we be following!?
 
 ### Contributors
 
-[Thanks goes to these contributors](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/readthedocs-examples/.github/graphs/contributors)!
