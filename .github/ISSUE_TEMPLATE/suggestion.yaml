@@ -8,8 +8,8 @@ body:
   - type: input
     id: suggestion
     attributes:
-      label: Link to suggestion
-      description: Please share a link to your suggestion
+      label: Link to project
+      description: Please share a link to your suggestion of a Read the Docs project (example or Real Life)
       placeholder: https://...
     validations:
       required: true
@@ -17,7 +17,7 @@ body:
     id: description
     attributes:
       label: Describe your suggesiton
-      description: How and why is your suggestion useful to this community?
-      placeholder: I wish to see tool <xyz> here becuase it is used for...
+      description: How and why is your suggestion useful to this community? Please indicate both where the project can be see and location of its source code project.
+      placeholder: I wish to see project <xyz> here becuase it is used for...
     validations:
       required: true
