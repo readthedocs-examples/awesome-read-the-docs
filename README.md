@@ -1,5 +1,3 @@
-<div align="center">
-
 <!-- title -->
 
 <!--lint ignore no-dead-urls-->
@@ -21,8 +19,6 @@ A list of example projects, useful to learn from and for bootstrapping new docum
 Read the Docs is a fully open-source platform that builds and publishes documentation. Read more
 on [readthedocs.org](https://readthedocs.org/) and [readthedocs.com](https://readthedocs.com/) (Read the Docs for Business).
 
-</div>
-
 <!-- TOC -->
 
 ## Contents
@@ -34,11 +30,12 @@ on [readthedocs.org](https://readthedocs.org/) and [readthedocs.com](https://rea
 
 ## Example projects
 
-- [Apple](https://apple.com) - Apple as a placeholder.
+- [Basic Sphinx example](https://github.com/readthedocs-examples/example-sphinx-basic) - Basic example of using Sphinx on Read the Docs. **#sphinx**.
+- [Basic MkDocs example](https://github.com/readthedocs-examples/example-mkdocs-basic) - Basic example of using MkDocs on Read the Docs. **#mkdocs**.
 
 ## Real-life projects
 
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+- [sphinxcontrib-needs](https://sphinxcontrib-needs.readthedocs.io/en/latest/) - Documentation of `sphinxcontrib-needs`. **#sphinx** **#sphinx-themes** **#ui-material**.
 
 <!-- END CONTENT -->
 
