@@ -25,6 +25,7 @@ on [readthedocs.org](https://readthedocs.org/) and [readthedocs.com](https://rea
 
 - [Example projects](#example-projects)
 - [Sphinx projects](#sphinx-projects)
+- [API documentation](#api-documentation)
 - [Science projects](#science-projects)
 
 <!-- CONTENT -->
@@ -38,6 +39,10 @@ on [readthedocs.org](https://readthedocs.org/) and [readthedocs.com](https://rea
 
 - [sphinxcontrib-needs](https://sphinxcontrib-needs.readthedocs.io/en/latest/) - Documentation of `sphinxcontrib-needs`. **#sphinx** **#sphinx-themes** **#ui-material**.
 - [sphinx-immaterial](https://sphinx-immaterial.readthedocs.io/en/latest/) - Documentation of `sphinx-immaterial`, a Material theme for Sphinx, based on Material for MkDocs. **#sphinx** **#sphinx-themes** **#ui-material**.
+
+## API documentation
+
+- [Zephyr](https://docs.zephyrproject.org/latest/) - very large project: uses its own custom landing page, 404 pages and Doxygen+Breathe integration to document a whole operating system, written mostly in C. Contains a very large database tracking hardware support. **#sphinx** **#sphinx-themes** **#ui-material** **#doxygen** **#C** **#very-large-project**
 
 ## Science projects
 
