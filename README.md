@@ -38,6 +38,7 @@ on [readthedocs.org](https://readthedocs.org/) and [readthedocs.com](https://rea
 
 - [sphinxcontrib-needs](https://sphinxcontrib-needs.readthedocs.io/en/latest/) - Documentation of `sphinxcontrib-needs`. **#sphinx** **#sphinx-themes** **#ui-material**.
 - [sphinx-immaterial](https://sphinx-immaterial.readthedocs.io/en/latest/) - Documentation of `sphinx-immaterial`, a Material theme for Sphinx, based on Material for MkDocs. **#sphinx** **#sphinx-themes** **#ui-material**.
+- [setuptools](https://setuptools.pypa.io/en/latest/) - lots of features, using the Furo theme. [Twitter thread](https://twitter.com/readthedocs/status/1546527820150718469) with some examples. **#sphinx** **#sphinx-themes**.
 
 ## Science projects
 
