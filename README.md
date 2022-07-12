@@ -1,6 +1,6 @@
-<!-- title -->
+<!--lint ignore awesome-git-repo-age-->
 
-<!--lint ignore no-dead-urls-->
+<!-- title -->
 
 # Awesome Read the Docs Projects [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/readthedocs-examples/.github/actions/workflows/lint.yaml/badge.svg)](https://github.com/readthedocs-examples/.github/actions/workflows/lint.yaml)
 
