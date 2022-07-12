@@ -25,6 +25,7 @@ on [readthedocs.org](https://readthedocs.org/) and [readthedocs.com](https://rea
 
 - [Example projects](#example-projects)
 - [Sphinx projects](#sphinx-projects)
+- [API Reference](#api-reference)
 - [Science projects](#science-projects)
 
 <!-- CONTENT -->
@@ -39,6 +40,10 @@ on [readthedocs.org](https://readthedocs.org/) and [readthedocs.com](https://rea
 - [sphinxcontrib-needs](https://sphinxcontrib-needs.readthedocs.io/en/latest/) - Documentation of `sphinxcontrib-needs`. **#sphinx** **#sphinx-themes** **#ui-material**.
 - [sphinx-immaterial](https://sphinx-immaterial.readthedocs.io/en/latest/) - Documentation of `sphinx-immaterial`, a Material theme for Sphinx, based on Material for MkDocs. **#sphinx** **#sphinx-themes** **#ui-material**.
 - [setuptools](https://setuptools.pypa.io/en/latest/) - lots of features, using the Furo theme. [Twitter thread](https://twitter.com/readthedocs/status/1546527820150718469) with some examples. **#sphinx** **#sphinx-themes**.
+
+## API Reference
+
+- [disnake](https://docs.disnake.dev/en/latest/) - this projects very rich Python API reference uses custom extension for quick overview tables of attributes and methods + `sphinx-hoverxref` for tooltips with API reference + source link references for GitHub source code, see also [Twitter thread](https://twitter.com/readthedocs/status/1541830875037503489) with some examples. **#sphinx-autodoc** **#sphinx-hoverxref** **#sphinx-themes**
 
 ## Science projects
 
