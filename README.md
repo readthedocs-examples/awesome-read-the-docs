@@ -50,6 +50,8 @@ on [readthedocs.org](https://readthedocs.org/) and [readthedocs.com](https://rea
 - [jupyter-book](https://jupyterbook.org/) - Jupyter-book automatically creates Sphinx projects from projects that are friendly to Jupyter Notebook users. **#jupyter-notebook** **#complex-navigation**.
 - [jupyter-sphinx](https://jupyter-sphinx.readthedocs.io/) - jupyter-sphinx directly executes and renders Jupyter Notebooks in documentation projects. **#jupyter-notebook** **#jupyter-sphinx**.
 - [jupyter-tutorial](https://jupyter-tutorial.readthedocs.io/) - Jupyter-tutorial uses a set of extensions for Sphinx, for instance direct rendering of `.ipynb` files with `nbsphinx`. **#jupyter-notebook** **#nbsphinx**.
+- [nbsphinx](https://nbsphinx.readthedocs.io/) - banner and buttons to view interactive versions of currently displayed `*.ipynb` files using the Binder service. Notice also the awesome PDF version. **#jupyter-notebook** **#nbsphinx** **#interactive-version**.
+- [poliastro](https://docs.poliastro.space/) - an extensive science project, demonstrating rich use of math formulas, interactive plotting in 3d, ``sphinx-hoverxref``, custom 404s and a nice copy button on code examples. Notice how well the navigation reflects the [Diátaxis framework](https://diataxis.fr/)  **#sphinx** **#sphinx-hoverxref** **#diataxis**.
 
 
 <!-- END CONTENT -->
