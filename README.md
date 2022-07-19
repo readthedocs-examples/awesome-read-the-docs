@@ -37,6 +37,7 @@ on [readthedocs.org](https://readthedocs.org/) and [readthedocs.com](https://rea
 
 ## Sphinx projects
 
+- [Uberspace](https://manual.uberspace.de/) - Customized sidebar and footer, adding project's branding through custom CSS and HTML to `sphinx_rtd_theme`. Latest version and release date on front page. **#sphinx**, **#sphinx-themes**, **#custom-theme**
 - [sphinxcontrib-needs](https://sphinxcontrib-needs.readthedocs.io/en/latest/) - Documentation of `sphinxcontrib-needs`. **#sphinx** **#sphinx-themes** **#ui-material**.
 - [sphinx-immaterial](https://sphinx-immaterial.readthedocs.io/en/latest/) - Documentation of `sphinx-immaterial`, a Material theme for Sphinx, based on Material for MkDocs. **#sphinx** **#sphinx-themes** **#ui-material**.
 - [setuptools](https://setuptools.pypa.io/en/latest/) - lots of features, using the Furo theme. [Twitter thread](https://twitter.com/readthedocs/status/1546527820150718469) with some examples. **#sphinx** **#sphinx-themes**.
