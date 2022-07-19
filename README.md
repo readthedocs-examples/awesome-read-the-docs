@@ -53,7 +53,7 @@ on [readthedocs.org](https://readthedocs.org/) and [readthedocs.com](https://rea
 - [jupyter-tutorial](https://jupyter-tutorial.readthedocs.io/) - Jupyter-tutorial uses a set of extensions for Sphinx, for instance direct rendering of `.ipynb` files with `nbsphinx`. **#jupyter-notebook** **#nbsphinx**.
 - [nbsphinx](https://nbsphinx.readthedocs.io/) - banner and buttons to view interactive versions of currently displayed `*.ipynb` files using the Binder service. Notice also the awesome PDF version. **#jupyter-notebook** **#nbsphinx** **#interactive-version**.
 - [poliastro](https://docs.poliastro.space/) - an extensive science project, demonstrating rich use of math formulas, interactive plotting in 3d, ``sphinx-hoverxref``, custom 404s and a nice copy button on code examples. Notice how well the navigation reflects the [Diátaxis framework](https://diataxis.fr/)  **#sphinx** **#sphinx-hoverxref** **#diataxis**.
-
+- [TomoBank](https://tomobank.readthedocs.io/) - a big list of tomographic datasets and phantoms, featuring especially tables and images and maintained by science community. **#sphinx** **#data-science**.
 
 <!-- END CONTENT -->
 
