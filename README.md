@@ -34,6 +34,7 @@ on [readthedocs.org](https://readthedocs.org/) and [readthedocs.com](https://rea
 
 - [Basic Sphinx example](https://github.com/readthedocs-examples/example-sphinx-basic) - Basic example of using Sphinx on Read the Docs. **#sphinx**.
 - [Basic MkDocs example](https://github.com/readthedocs-examples/example-mkdocs-basic) - Basic example of using MkDocs on Read the Docs. **#mkdocs**.
+- [Jupyter Book example](https://github.com/readthedocs-examples/example-jupyter-book) - Using Jupyter Book on Read the Docs with popular extensions. **#jupyter-book** **#sphinx** **#sphinx-hoverxref**.
 
 ## Sphinx projects
 
