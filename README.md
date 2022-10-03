@@ -38,6 +38,7 @@ on [readthedocs.org](https://readthedocs.org/) and [readthedocs.com](https://rea
 
 ## Sphinx projects
 
+- [Scrapy](https://docs.scrapy.org/en/latest/) - Embeds a lot of reference snippets and uses `sphinx-hoverxref` for quick reference tooltips. Lots of inspiration to be found in content organization. **#sphinx** **#sphinx-hoverxref**.
 - [setuptools](https://setuptools.pypa.io/en/latest/) - lots of features, using the Furo theme. [Twitter thread](https://twitter.com/readthedocs/status/1546527820150718469) with some examples. **#sphinx** **#sphinx-themes**.
 - [sphinxcontrib-needs](https://sphinxcontrib-needs.readthedocs.io/en/latest/) - Documentation of `sphinxcontrib-needs`. **#sphinx** **#sphinx-themes** **#ui-material**.
 - [sphinx-immaterial](https://sphinx-immaterial.readthedocs.io/en/latest/) - Documentation of `sphinx-immaterial`, a Material theme for Sphinx, based on Material for MkDocs. **#sphinx** **#sphinx-themes** **#ui-material**.
