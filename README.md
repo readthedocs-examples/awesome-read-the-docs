@@ -19,6 +19,8 @@ A list of example projects, useful to learn from and for bootstrapping new docum
 Read the Docs is a fully open-source platform that builds and publishes documentation. Read more
 on [readthedocs.org](https://readthedocs.org/) and [readthedocs.com](https://readthedocs.com/) (Read the Docs for Business).
 
+Documentation projects have traditionally been part of a software project. However, many new documentation projects have emerged in science and academia. Therefore, we are compiling a list of inspirational uses of documentation technology, especially outside of the traditional field of software documentation. It's a work in progress, please feel invited to [contribute](#contributing)!
+
 <!-- TOC -->
 
 ## Contents
