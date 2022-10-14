@@ -23,13 +23,16 @@ on [readthedocs.org](https://readthedocs.org/) and [readthedocs.com](https://rea
 
 Documentation projects have traditionally been part of a software project. However, many new documentation projects have emerged in science and academia. To capture the latest development and trends, we are compiling a list of inspirational uses of documentation technology, especially outside of the traditional field of software documentation.
 
+<!-- we never enable the double-link rule again, it's annoying -->
+<!--lint disable double-link-->
 In addition to showing awesome and real-life Read the Docs projects, a number of [Example Projects](#example-projects) are being built to learn and get started.
 
 It's a work in progress, please feel invited to [contribute](#contributing)!
 
 <!-- TOC -->
-
+<!--lint disable awesome-toc-->
 ## Contents
+<!--lint enable awesome-toc-->
 
 - [Sphinx projects](#sphinx-projects)
 - [API Reference](#api-reference)
