@@ -22,11 +22,13 @@ on [readthedocs.org](https://readthedocs.org/) and [readthedocs.com](https://rea
 
 ## Foreword
 
-Documentation projects have traditionally been part of a software project. However, many new documentation projects have emerged in science and academia. To capture the latest development and trends, we are compiling a list of inspirational uses of documentation technology, especially outside of the traditional field of software documentation.
+Many new and exciting documentation projects have emerged in *science and academia*, taking the world of documentation beyond just software projects. To capture the latest development and trends, we are compiling a list of inspirational uses of documentation technology, especially outside of the traditional field of software documentation.
 
 In addition to showing awesome and real-life Read the Docs projects, a number of [Example Projects](#example-projects) are being built to learn and get started.
 
-It's a work in progress, please feel invited to [contribute](#contributing)!
+We hope that this will inspire people writing documentation, developing new documentation projects or updating existing ones. All projects mentioned here are **open source**, meaning that you can find their source code and understand how it's done.
+
+The list is a work in progress, please feel invited to [contribute](#contributing)!
 
 <!-- TOC -->
 <!--lint disable awesome-toc-->
