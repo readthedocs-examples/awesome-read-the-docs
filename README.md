@@ -7,7 +7,8 @@
 
 <!-- subtitle -->
 
-> A curated list of awesome documentation projects, useful to learn from and for bootstrapping new documentation projects. Plus cool real-life usages of Read the Docs.
+> A curated list of awesome documentation projects, useful to learn from and for bootstrapping new documentation projects.
+> Plus cool real-life usages of Read the Docs.
 
 <!-- image -->
 
@@ -17,16 +18,18 @@
 
 <!-- description -->
 
-Read the Docs is a fully open-source platform that builds and publishes documentation. Read more
-on [readthedocs.org](https://readthedocs.org/) and [readthedocs.com](https://readthedocs.com/) (Read the Docs for Business).
+Read the Docs is a fully open-source platform that builds and publishes documentation.
+Read more on [readthedocs.org](https://readthedocs.org/) and [readthedocs.com](https://readthedocs.com/) (Read the Docs for Business).
 
 ## Foreword
 
-Many new and exciting documentation projects have emerged in *science and academia*, taking the world of documentation beyond just software projects. To capture the latest development and trends, we are compiling a list of inspirational uses of documentation technology, especially outside of the traditional field of software documentation.
+Many new and exciting documentation projects have emerged in *science and academia*, taking the world of documentation beyond just software projects.
+To capture the latest development and trends, we are compiling a list of inspirational uses of documentation technology, especially outside of the traditional field of software documentation.
 
-In addition to showing awesome and real-life Read the Docs projects, a number of [Example Projects](#example-projects) are being built to learn and get started.
+In addition to showing awesome and real-life Read the Docs projects, a number of [Example Projects](#example-projects) are being built to help people learn and get started.
 
-We hope that this will inspire people writing documentation, developing new documentation projects or updating existing ones. All projects mentioned here are **open source**, meaning that you can find their source code and understand how it's done.
+We hope that this will inspire people writing documentation, developing new documentation projects or updating existing ones.
+All projects mentioned here are **open source**, meaning that you can find their source code and understand how it's done.
 
 The list is a work in progress, please feel invited to [contribute](#contributing)!
 
