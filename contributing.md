@@ -4,7 +4,7 @@ Please note that this project is released with Read the Docs' [Code of Conduct](
 
 ## Adding a new item
 
-- Try to fit your item into an existing sections. [Open a suggestion](https://github.com/readthedocs-examples/.github/issues/new) to start as discussion about any new sections.
+- Try to fit your item into an existing sections. [Open a suggestion](https://github.com/readthedocs-examples/awesome-read-the-docs/issues/new) to start as discussion about any new sections.
 - Add a new item to the bottom of the list in a section.
 - If a duplicate item exists, discuss why the new item should replace it.
 - Check your spelling & grammar.

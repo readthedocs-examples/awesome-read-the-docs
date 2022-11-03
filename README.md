@@ -3,7 +3,7 @@
 
 <!-- title -->
 
-# Awesome Read the Docs Projects [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/readthedocs-examples/.github/actions/workflows/lint.yaml/badge.svg)](https://github.com/readthedocs-examples/.github/actions/workflows/lint.yaml)
+# Awesome Read the Docs Projects [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/readthedocs-examples/awesome-read-the-docs/actions/workflows/lint.yaml/badge.svg)](https://github.com/readthedocs-examples/awesome-read-the-docs/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
@@ -85,4 +85,4 @@ The list is a work in progress, please feel invited to [contribute](#contributin
 
 ### Contributors
 
-[Thanks goes to these contributors](https://github.com/readthedocs-examples/.github/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/readthedocs-examples/awesome-read-the-docs/graphs/contributors)!
