@@ -1,12 +1,14 @@
 <!--lint ignore awesome-git-repo-age-->
+<!--lint disable double-link-->
 
 <!-- title -->
 
-# Awesome Read the Docs Projects [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/readthedocs-examples/.github/actions/workflows/lint.yaml/badge.svg)](https://github.com/readthedocs-examples/.github/actions/workflows/lint.yaml)
+# Awesome Read the Docs Projects [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/readthedocs-examples/awesome-read-the-docs/actions/workflows/lint.yaml/badge.svg)](https://github.com/readthedocs-examples/awesome-read-the-docs/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
-A list of example projects, useful to learn from and for bootstrapping new documentation projects. Plus cool real-life usages of Read the Docs.
+> A curated list of awesome documentation projects, useful to learn from and for bootstrapping new documentation projects.
+> Plus cool real-life usages of Read the Docs.
 
 <!-- image -->
 
@@ -16,27 +18,33 @@ A list of example projects, useful to learn from and for bootstrapping new docum
 
 <!-- description -->
 
-Read the Docs is a fully open-source platform that builds and publishes documentation. Read more
-on [readthedocs.org](https://readthedocs.org/) and [readthedocs.com](https://readthedocs.com/) (Read the Docs for Business).
+Read the Docs is a fully open-source platform that builds and publishes documentation.
+Read more on [readthedocs.org](https://readthedocs.org/) and [readthedocs.com](https://readthedocs.com/) (Read the Docs for Business).
 
-Documentation projects have traditionally been part of a software project. However, many new documentation projects have emerged in science and academia. Therefore, we are compiling a list of inspirational uses of documentation technology, especially outside of the traditional field of software documentation. It's a work in progress, please feel invited to [contribute](#contributing)!
+## Foreword
+
+Many new and exciting documentation projects have emerged in *science and academia*, taking the world of documentation beyond just software projects.
+To capture the latest development and trends, we are compiling a list of inspirational uses of documentation technology, especially outside of the traditional field of software documentation.
+
+In addition to showing awesome and real-life Read the Docs projects, a number of [Example Projects](#example-projects) are being built to help people learn and get started.
+
+We hope that this will inspire people writing documentation, developing new documentation projects or updating existing ones.
+All projects mentioned here are **open source**, meaning that you can find their source code and understand how it's done.
+
+The list is a work in progress, please feel invited to [contribute](#contributing)!
 
 <!-- TOC -->
-
+<!--lint disable awesome-toc-->
 ## Contents
+<!--lint enable awesome-toc-->
 
-- [Example projects](#example-projects)
 - [Sphinx projects](#sphinx-projects)
 - [API Reference](#api-reference)
 - [Science projects](#science-projects)
+- [Example projects](#example-projects)
 
 <!-- CONTENT -->
 
-## Example projects
-
-- [Basic Sphinx example](https://github.com/readthedocs-examples/example-sphinx-basic) - Basic example of using Sphinx on Read the Docs. **#sphinx**.
-- [Basic MkDocs example](https://github.com/readthedocs-examples/example-mkdocs-basic) - Basic example of using MkDocs on Read the Docs. **#mkdocs**.
-- [Jupyter Book example](https://github.com/readthedocs-examples/example-jupyter-book) - Using Jupyter Book on Read the Docs with popular extensions. **#jupyter-book** **#sphinx** **#sphinx-hoverxref**.
 
 ## Sphinx projects
 
@@ -65,10 +73,16 @@ Documentation projects have traditionally been part of a software project. Howev
 
 <!-- END CONTENT -->
 
+## Example projects
+
+- [Basic Sphinx example](https://github.com/readthedocs-examples/example-sphinx-basic) - Basic example of using Sphinx on Read the Docs. **#sphinx**.
+- [Basic MkDocs example](https://github.com/readthedocs-examples/example-mkdocs-basic) - Basic example of using MkDocs on Read the Docs. **#mkdocs**.
+- [Jupyter Book example](https://github.com/readthedocs-examples/example-jupyter-book) - Using Jupyter Book on Read the Docs with popular extensions. **#jupyter-book** **#sphinx** **#sphinx-hoverxref**.
+
 ## Contributing
 
 [Contributions of any kind welcome, just follow the guidelines](contributing.md)!
 
 ### Contributors
 
-[Thanks goes to these contributors](https://github.com/readthedocs-examples/.github/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/readthedocs-examples/awesome-read-the-docs/graphs/contributors)!
