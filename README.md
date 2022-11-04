@@ -69,6 +69,7 @@ The list is a work in progress, please feel invited to [contribute](#contributin
 - [msticpy](https://msticpy.readthedocs.io/) - MSTIC Jupyter and Python Security Tools, msticpy is a library for InfoSec investigation and hunting in Jupyter Notebooks. **#jupyter-notebook** **#infosec**.
 - [nbsphinx](https://nbsphinx.readthedocs.io/) - banner and buttons to view interactive versions of currently displayed `*.ipynb` files using the Binder service. Notice also the awesome PDF version. **#jupyter-notebook** **#nbsphinx** **#interactive-version**.
 - [poliastro](https://docs.poliastro.space/) - an extensive science project, demonstrating rich use of math formulas, interactive plotting in 3d, ``sphinx-hoverxref``, custom 404s and a nice copy button on code examples. Notice how well the navigation reflects the [Diátaxis framework](https://diataxis.fr/)  **#sphinx** **#sphinx-hoverxref** **#diataxis**.
+- [TorchIO](https://torchio.readthedocs.io/) - an open-source Python library targeting 3D medical images in deep learning. Combines API documentation with usage examples, uses "single version" for a singular "rolling release" documentation. [Screenshots in this Twitter thread](https://twitter.com/readthedocs/status/1570339818806120450). **#furo-theme**, **#p5js**, **example-gallery**.
 - [TomoBank](https://tomobank.readthedocs.io/) - a big list of tomographic datasets and phantoms, featuring especially tables and images and maintained by science community. **#sphinx** **#data-science**.
 
 <!-- END CONTENT -->
