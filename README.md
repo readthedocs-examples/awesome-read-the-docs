@@ -48,6 +48,7 @@ The list is a work in progress, please feel invited to [contribute](#contributin
 
 ## Sphinx projects
 
+- [Merlin](https://merlin.readthedocs.io/) - A project for machine learning based workflows. Uses the Sphinx theme "Alabast" and has a very interesting 3 hour tutorial for getting started. **#sphinx**, **#theme-alabast**, **#tutorials**
 - [Scrapy](https://docs.scrapy.org/) - Embeds a lot of reference snippets and uses `sphinx-hoverxref` for quick reference tooltips. Lots of inspiration to be found in content organization. **#sphinx** **#sphinx-hoverxref**.
 - [setuptools](https://setuptools.pypa.io/) - lots of features, using the Furo theme. [Twitter thread](https://twitter.com/readthedocs/status/1546527820150718469) with some examples. **#sphinx** **#sphinx-themes**.
 - [sphinxcontrib-needs](https://sphinxcontrib-needs.readthedocs.io/) - Documentation of `sphinxcontrib-needs`. **#sphinx** **#sphinx-themes** **#ui-material**.
