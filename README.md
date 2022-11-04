@@ -87,4 +87,3 @@ The list is a work in progress, please feel invited to [contribute](#contributin
 ### Contributors
 
 [Thanks goes to these contributors](https://github.com/readthedocs-examples/awesome-read-the-docs/graphs/contributors)!
-, 
