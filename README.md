@@ -63,6 +63,7 @@ The list is a work in progress, please feel invited to [contribute](#contributin
 ## Science projects
 
 - [AiiDA demonstration](https://aiida-qe-demo.readthedocs.io/) - A hardware demo/tutorial written with lots of examples and illustrations. [Behind the scenes](https://github.com/chrisjsewell/aiida-qe-demo), Conda is used by installing mambaforge and storing the setup in `environment.yml`.  **#tutorial** **#conda** **#jupyter-book**
+- [Crest Ocean System](https://crest.readthedocs.io/) - Uses sphinx-hoverxref and Executable Book. Video tutorials in text. Lots of embeds, Trello, YouTube and more. **#sphinx-hoverxref** **#sphinx-themes**, **executable-book**, **#videos**
 - [jupyter-book](https://jupyterbook.org/) - Jupyter-book automatically creates Sphinx projects from projects that are friendly to Jupyter Notebook users. **#jupyter-notebook** **#complex-navigation** **#diataxis**.
 - [jupyter-sphinx](https://jupyter-sphinx.readthedocs.io/) - jupyter-sphinx directly executes and renders Jupyter Notebooks in documentation projects. **#jupyter-notebook** **#jupyter-sphinx**.
 - [jupyter-tutorial](https://jupyter-tutorial.readthedocs.io/) - Jupyter-tutorial uses a set of extensions for Sphinx, for instance direct rendering of `.ipynb` files with `nbsphinx`. **#jupyter-notebook** **#nbsphinx**.
