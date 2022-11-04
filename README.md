@@ -69,6 +69,7 @@ The list is a work in progress, please feel invited to [contribute](#contributin
 - [msticpy](https://msticpy.readthedocs.io/) - MSTIC Jupyter and Python Security Tools, msticpy is a library for InfoSec investigation and hunting in Jupyter Notebooks. **#jupyter-notebook** **#infosec**.
 - [nbsphinx](https://nbsphinx.readthedocs.io/) - banner and buttons to view interactive versions of currently displayed `*.ipynb` files using the Binder service. Notice also the awesome PDF version. **#jupyter-notebook** **#nbsphinx** **#interactive-version**.
 - [poliastro](https://docs.poliastro.space/) - an extensive science project, demonstrating rich use of math formulas, interactive plotting in 3d, ``sphinx-hoverxref``, custom 404s and a nice copy button on code examples. Notice how well the navigation reflects the [Diátaxis framework](https://diataxis.fr/)  **#sphinx** **#sphinx-hoverxref** **#diataxis**.
+- [SunPy](https://docs.sunpy.org/) - A large documentation project for an open-source package for solar physics. Embeds the main website's menu and uses a custom theme. Extensive changelog and release notes. **#custom-theme**, **sphinx**, **#api-reference**.
 - [TomoBank](https://tomobank.readthedocs.io/) - a big list of tomographic datasets and phantoms, featuring especially tables and images and maintained by science community. **#sphinx** **#data-science**.
 
 <!-- END CONTENT -->
@@ -86,3 +87,4 @@ The list is a work in progress, please feel invited to [contribute](#contributin
 ### Contributors
 
 [Thanks goes to these contributors](https://github.com/readthedocs-examples/awesome-read-the-docs/graphs/contributors)!
+, 
