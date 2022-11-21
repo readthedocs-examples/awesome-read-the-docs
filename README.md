@@ -49,7 +49,7 @@ The list is a work in progress, please feel invited to [contribute](#contributin
 ## Sphinx projects
 
 - [Scrapy](https://docs.scrapy.org/) - Embeds a lot of reference snippets and uses `sphinx-hoverxref` for quick reference tooltips. Lots of inspiration to be found in content organization. **#sphinx** **#sphinx-hoverxref**.
-- [setuptools](https://setuptools.pypa.io/) - lots of features, using the Furo theme. [Twitter thread](https://twitter.com/readthedocs/status/1546527820150718469) with some examples. **#sphinx** **#sphinx-themes**.
+- [setuptools](https://setuptools.pypa.io/) - Lots of features, using the Furo theme. [Twitter thread](https://twitter.com/readthedocs/status/1546527820150718469) with some examples. **#sphinx** **#sphinx-themes**.
 - [sphinxcontrib-needs](https://sphinxcontrib-needs.readthedocs.io/) - Documentation of `sphinxcontrib-needs`. **#sphinx** **#sphinx-themes** **#ui-material**.
 - [sphinx-immaterial](https://sphinx-immaterial.readthedocs.io/) - Documentation of `sphinx-immaterial`, a Material theme for Sphinx, based on Material for MkDocs. **#sphinx** **#sphinx-themes** **#ui-material**.
 - [Uberspace](https://manual.uberspace.de/) - Customized sidebar and footer, adding project's branding through custom CSS and HTML to `sphinx_rtd_theme`. Latest version and release date on front page. **#sphinx** **#sphinx-themes** **#custom-theme**.
@@ -58,7 +58,7 @@ The list is a work in progress, please feel invited to [contribute](#contributin
 
 ## API Reference
 
-- [disnake](https://docs.disnake.dev/) - this projects very rich Python API reference uses custom extension for quick overview tables of attributes and methods + `sphinx-hoverxref` for tooltips with API reference + source link references for GitHub source code, see also [Twitter thread](https://twitter.com/readthedocs/status/1541830875037503489) with some examples. **#sphinx-autodoc** **#sphinx-hoverxref** **#sphinx-themes**
+- [disnake](https://docs.disnake.dev/) - This projects very rich Python API reference uses custom extension for quick overview tables of attributes and methods + `sphinx-hoverxref` for tooltips with API reference + source link references for GitHub source code, see also [Twitter thread](https://twitter.com/readthedocs/status/1541830875037503489) with some examples. **#sphinx-autodoc** **#sphinx-hoverxref** **#sphinx-themes**
 
 ## Science projects
 
@@ -68,11 +68,11 @@ The list is a work in progress, please feel invited to [contribute](#contributin
 - [jupyter-sphinx](https://jupyter-sphinx.readthedocs.io/) - jupyter-sphinx directly executes and renders Jupyter Notebooks in documentation projects. **#jupyter-notebook** **#jupyter-sphinx**.
 - [jupyter-tutorial](https://jupyter-tutorial.readthedocs.io/) - Jupyter-tutorial uses a set of extensions for Sphinx, for instance direct rendering of `.ipynb` files with `nbsphinx`. **#jupyter-notebook** **#nbsphinx**.
 - [msticpy](https://msticpy.readthedocs.io/) - MSTIC Jupyter and Python Security Tools, msticpy is a library for InfoSec investigation and hunting in Jupyter Notebooks. **#jupyter-notebook** **#infosec**.
-- [nbsphinx](https://nbsphinx.readthedocs.io/) - banner and buttons to view interactive versions of currently displayed `*.ipynb` files using the Binder service. Notice also the awesome PDF version. **#jupyter-notebook** **#nbsphinx** **#interactive-version**.
+- [nbsphinx](https://nbsphinx.readthedocs.io/) - Banner and buttons to view interactive versions of currently displayed `*.ipynb` files using the Binder service. Notice also the awesome PDF version. **#jupyter-notebook** **#nbsphinx** **#interactive-version**.
 - [poliastro](https://docs.poliastro.space/) - an extensive science project, demonstrating rich use of math formulas, interactive plotting in 3d, ``sphinx-hoverxref``, custom 404s and a nice copy button on code examples. Notice how well the navigation reflects the [Diátaxis framework](https://diataxis.fr/)  **#sphinx** **#sphinx-hoverxref** **#diataxis**.
 - [SunPy](https://docs.sunpy.org/) - A large documentation project for an open-source package for solar physics. Embeds the main website's menu and uses a custom theme. Extensive changelog and release notes. **#custom-theme**, **sphinx**, **#api-reference**.
-- [TorchIO](https://torchio.readthedocs.io/) - an open-source Python library targeting 3D medical images in deep learning. Combines API documentation with usage examples, uses "single version" for a singular "rolling release" documentation. [Screenshots in this Twitter thread](https://twitter.com/readthedocs/status/1570339818806120450). **#furo-theme**, **#p5js**, **example-gallery**.
-- [TomoBank](https://tomobank.readthedocs.io/) - a big list of tomographic datasets and phantoms, featuring especially tables and images and maintained by science community. **#sphinx** **#data-science**.
+- [TorchIO](https://torchio.readthedocs.io/) - An open-source Python library targeting 3D medical images in deep learning. Combines API documentation with usage examples, uses "single version" for a singular "rolling release" documentation. [Screenshots in this Twitter thread](https://twitter.com/readthedocs/status/1570339818806120450). **#furo-theme**, **#p5js**, **example-gallery**.
+- [TomoBank](https://tomobank.readthedocs.io/) - A big list of tomographic datasets and phantoms, featuring especially tables and images and maintained by science community. **#sphinx** **#data-science**.
 
 <!-- END CONTENT -->
 
