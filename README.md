@@ -39,7 +39,7 @@ The list is a work in progress, please feel invited to [contribute](#contributin
 <!--lint enable awesome-toc-->
 
 - [Sphinx projects](#sphinx-projects)
-- [MkDocs projects](#sphinx-projects)
+- [MkDocs projects](#mkdocs-projects)
 - [API Reference](#api-reference)
 - [Science projects](#science-projects)
 - [Example projects](#example-projects)
@@ -59,7 +59,7 @@ The list is a work in progress, please feel invited to [contribute](#contributin
 
 ## MkDocs projects
 
-- [Nautobot](https://docs.nautobot.com/) - Extensive usage of the subprojects feature to organize numerous documentation projects under the same custom domain / landing page. Features are showcased in [this twitter thread](https://twitter.com/readthedocs/status/1595010133796462593). **#mkdocs** **#material-for-mkdocs** **#subprojects** **#ui-material**.
+- [Nautobot](https://docs.nautobot.com/) - Extensive usage of the subprojects feature to organize numerous documentation projects under the same custom domain / landing page. Each subproject has its own release cycle. Features are showcased in [this twitter thread](https://twitter.com/readthedocs/status/1595010133796462593). **#mkdocs** **#material-for-mkdocs** **#subprojects** **#ui-material**.
 
 ## API Reference
 
