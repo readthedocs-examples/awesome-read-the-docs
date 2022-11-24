@@ -39,6 +39,7 @@ The list is a work in progress, please feel invited to [contribute](#contributin
 <!--lint enable awesome-toc-->
 
 - [Sphinx projects](#sphinx-projects)
+- [MkDocs projects](#sphinx-projects)
 - [API Reference](#api-reference)
 - [Science projects](#science-projects)
 - [Example projects](#example-projects)
@@ -55,6 +56,10 @@ The list is a work in progress, please feel invited to [contribute](#contributin
 - [Uberspace](https://manual.uberspace.de/) - Customized sidebar and footer, adding project's branding through custom CSS and HTML to `sphinx_rtd_theme`. Latest version and release date on front page. **#sphinx** **#sphinx-themes** **#custom-theme**.
 - [Wagtail](https://docs.wagtail.org/) - Wagtail is a Django-based CMS with a global community. The documentation spans multiple stakeholders (editors and developers), has it's own beautiful theme and is largely structured around Diátaxis ideals. The [Release Notes](https://docs.wagtail.org/en/stable/releases/index.html) and [Contribution guide](https://docs.wagtail.org/en/stable/contributing/index.html) are remarkable. Wagtail's documentation uses a minimal set of Sphinx extensions. **#sphinx** **#sphinx-themes** **#diataxis**.
 - [Weblate](https://docs.weblate.org/) - Weblate is a translation platform with a large documentation project with many translations and customized Read the Docs theme. Documentation aimed at all segments: users, administrators and developers. Also features an extensive Changelog. **#sphinx** **#sphinx-themes** **#translation**.
+
+## MkDocs projects
+
+- [Nautobot](https://docs.nautobot.com/) - Extensive usage of the subprojects feature to organize numerous documentation projects under the same custom domain / landing page. Features are showcased in [this twitter thread](https://twitter.com/readthedocs/status/1595010133796462593). **#mkdocs** **#material-for-mkdocs** **#subprojects** **#ui-material**.
 
 ## API Reference
 
