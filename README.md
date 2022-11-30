@@ -67,7 +67,7 @@ The list is a work in progress, please feel invited to [contribute](#contributin
 
 ## Science projects
 
-- [AiiDA demonstration](https://aiida-qe-demo.readthedocs.io/) - A hardware demo/tutorial written with lots of examples and illustrations. [Behind the scenes](https://github.com/chrisjsewell/aiida-qe-demo), Conda is used by installing mambaforge and storing the setup in `environment.yml`.  **#sphinx** **#tutorial** **#conda** **#jupyter-book**
+- [AiiDA demonstration](https://aiida-qe-demo.readthedocs.io/) - A hardware demo/tutorial written with lots of examples and illustrations. [Behind the scenes](https://github.com/chrisjsewell/aiida-qe-demo), Conda is used by installing mambaforge and storing the setup in `environment.yml`.  **#sphinx** **#jupyter-book**
 - [Crest Ocean System](https://crest.readthedocs.io/) - Uses sphinx-hoverxref and Executable Book. Video tutorials in text. Lots of embeds, Trello, YouTube and more. **#sphinx** **#themes**, **executable-book**
 - [jupyter-book](https://jupyterbook.org/) - Jupyter-book automatically creates Sphinx projects from projects that are friendly to Jupyter Notebook users. **#jupyter-notebook** **#sphinx** **#diataxis**.
 - [jupyter-sphinx](https://jupyter-sphinx.readthedocs.io/) - Directly executes and renders Jupyter Notebooks in documentation projects. **#jupyter-notebook** **#sphinx**.
@@ -85,7 +85,7 @@ The list is a work in progress, please feel invited to [contribute](#contributin
 
 - [Basic Sphinx example](https://github.com/readthedocs-examples/example-sphinx-basic) - Basic example of using Sphinx on Read the Docs. **#sphinx**.
 - [Basic MkDocs example](https://github.com/readthedocs-examples/example-mkdocs-basic) - Basic example of using MkDocs on Read the Docs. **#mkdocs**.
-- [Jupyter Book example](https://github.com/readthedocs-examples/example-jupyter-book) - Using Jupyter Book on Read the Docs with popular extensions. **#jupyter-book** **#sphinx** **#sphinx-hoverxref**.
+- [Jupyter Book example](https://github.com/readthedocs-examples/example-jupyter-book) - Using Jupyter Book on Read the Docs with popular extensions. **#jupyter-book** **#sphinx**.
 
 ## Contributing
 
