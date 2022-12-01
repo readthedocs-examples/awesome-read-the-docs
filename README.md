@@ -87,7 +87,9 @@ The list is a work in progress, please feel invited to [contribute](#contributin
 - [Basic MkDocs example](https://github.com/readthedocs-examples/example-mkdocs-basic) - Basic example of using MkDocs on Read the Docs. **#mkdocs**.
 - [Jupyter Book example](https://github.com/readthedocs-examples/example-jupyter-book) - Using Jupyter Book on Read the Docs with popular extensions. **#jupyter-notebook** **#sphinx**.
 
+<!--lint disable awesome-toc-->
 ## Tag cloud
+<!--lint enable awesome-toc-->
 
 The categories in this list are intersecting at the following tags:
 
