@@ -60,6 +60,7 @@ The list is a work in progress, please feel invited to [contribute](#contributin
 
 ## MkDocs projects
 
+- [Argo CD](https://argo-cd.readthedocs.io/) - Material for MkDocs theme with custom colors and a nice version drop down. Animated product demo and carefully designed sidebar presenting targeted guides for Operators, Users and Developers. **#mkdocs** **#themes** **#large-project**.
 - [Nautobot](https://docs.nautobot.com/) - Extensive usage of the subprojects feature to organize numerous documentation projects under the same custom domain / landing page. Each subproject has its own release cycle. Features are showcased in [this twitter thread](https://twitter.com/readthedocs/status/1595010133796462593). **#mkdocs** **#themes** **#large-project**.
 
 ## API Reference
