@@ -93,7 +93,7 @@ The list is a work in progress, please feel invited to [contribute](#contributin
 
 The categories in this list are intersecting at the following tags:
 
-**#sphinx**, **mkdocs**, **#themes**, **#custom-theme**, **#jupyter-notebook**, **#diataxis**, **#large-project**, **#apidocs**, **#translation**
+**#sphinx**, **#mkdocs**, **#themes**, **#custom-theme**, **#jupyter-notebook**, **#diataxis**, **#large-project**, **#apidocs**, **#translation**
 
 ## Contributing
 
