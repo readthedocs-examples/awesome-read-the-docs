@@ -63,6 +63,7 @@ The list is a work in progress, please feel invited to [contribute](#contributin
 - [Argo CD](https://argo-cd.readthedocs.io/) - Material for MkDocs theme with custom colors and a nice version drop down. Animated product demo and carefully designed sidebar presenting targeted guides for Operators, Users and Developers. **#mkdocs** **#themes** **#large-project**.
 - [doc2dash](https://doc2dash.readthedocs.io/en/stable/) - Material for MkDocs with a custom version provider fully compatible with Read the Docs **#mkdocs** **#themes**.
 - [Nautobot](https://docs.nautobot.com/) - Extensive usage of the subprojects feature to organize numerous documentation projects under the same custom domain / landing page. Each subproject has its own release cycle. Features are showcased in [this twitter thread](https://twitter.com/readthedocs/status/1595010133796462593). **#mkdocs** **#themes** **#large-project**.
+- [The Haskell Tool Stack](https://docs.haskellstack.org/) - A matured MkDocs project using their documentation website as their main website. Notice both the structure and the considerate use of widgets included in Material for MkDocs **#mkdocs** **#themes**.
 
 ## API Reference
 
