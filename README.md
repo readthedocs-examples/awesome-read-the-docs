@@ -13,7 +13,7 @@
 <!-- image -->
 
 <a href="https://docs.readthedocs.io/en/stable/tutorial/index.html" target="_blank" rel="noopener noreferrer">
-  <img src="./illustration.png" />
+  <img src="./readthedocs-logo.svg" />
 </a>
 
 <!-- description -->
