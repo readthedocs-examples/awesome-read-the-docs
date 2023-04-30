@@ -50,6 +50,7 @@ The list is a work in progress, please feel invited to [contribute](#contributin
 
 ## Sphinx projects
 
+- [CrateDB](https://crate.io/docs/crate/) - Crate.io has integrated their documentation experience into their general website. There's a total of 15 documentation projects nested. They use a custom theme, [crate-docs-theme](https://github.com/crate/crate-docs-theme) to orchestrate the projects and align them. **#sphinx** **#custom-theme**.
 - [Scrapy](https://docs.scrapy.org/) - Embeds a lot of reference snippets and uses `sphinx-hoverxref` for quick reference tooltips. Lots of inspiration to be found in content organization. **#sphinx**.
 - [setuptools](https://setuptools.pypa.io/) - Lots of features, using the Furo theme. [Twitter thread](https://twitter.com/readthedocs/status/1546527820150718469) with some examples. **#sphinx** **#themes**.
 - [sphinxcontrib-needs](https://sphinxcontrib-needs.readthedocs.io/) - Documentation of `sphinxcontrib-needs`. **#sphinx** **#themes**.
