@@ -84,6 +84,10 @@ The list is a work in progress, please feel invited to [contribute](#contributin
 - [TorchIO](https://torchio.readthedocs.io/) - An open-source Python library targeting 3D medical images in deep learning. Combines API documentation with usage examples, uses "single version" for a singular "rolling release" documentation. [Screenshots in this Twitter thread](https://twitter.com/readthedocs/status/1570339818806120450). **#themes**, **sphinx**.
 - [TomoBank](https://tomobank.readthedocs.io/) - A big list of tomographic datasets and phantoms, featuring especially tables and images and maintained by science community. **#sphinx**.
 
+## Legal documentation (policy, law etc)
+
+- [Transcripts of the Post Office Horizon IT Inquiry hearings](https://postofficeinquiry.dracos.co.uk/) - Uses Sphinx to render a court case transcript, searchable and with cross-references. **#sphinx**.
+
 <!-- END CONTENT -->
 
 ## Example projects
