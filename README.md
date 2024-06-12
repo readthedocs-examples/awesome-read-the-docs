@@ -42,7 +42,6 @@ The list is a work in progress, please feel invited to [contribute](#contributin
 - [MkDocs projects](#mkdocs-projects)
 - [API Reference](#api-reference)
 - [Science projects](#science-projects)
-- [Example projects](#example-projects)
 - [Tag cloud](#tag-cloud)
 
 <!-- CONTENT -->
