@@ -88,12 +88,6 @@ The list is a work in progress, please feel invited to [contribute](#contributin
 
 <!-- END CONTENT -->
 
-## Example projects
-
-- [Basic Sphinx example](https://github.com/readthedocs-examples/example-sphinx-basic) - Basic example of using Sphinx on Read the Docs. **#sphinx**.
-- [Basic MkDocs example](https://github.com/readthedocs-examples/example-mkdocs-basic) - Basic example of using MkDocs on Read the Docs. **#mkdocs**.
-- [Jupyter Book example](https://github.com/readthedocs-examples/example-jupyter-book) - Using Jupyter Book on Read the Docs with popular extensions. **#jupyter-notebook** **#sphinx**.
-
 ## Tag cloud
 
 The categories in this list are intersecting at the following tags:
