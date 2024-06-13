@@ -19,7 +19,7 @@
 <!-- description -->
 
 Read the Docs is a fully open-source platform that builds and publishes documentation.
-Read more on [readthedocs.org](https://readthedocs.org/) and [readthedocs.com](https://readthedocs.com/) (Read the Docs for Business).
+Read more on https://about.readthedocs.com.
 
 ## Foreword
 
