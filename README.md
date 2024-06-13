@@ -53,7 +53,7 @@ The list is a work in progress, please feel invited to [contribute](#contributin
 - [django-cms](https://docs.django-cms.org/) - django-cms's developer documentation is as extensive as it's well-organized. It uses the Furo theme. **#sphinx** **#large-project**.
 - [Ray](https://docs.ray.io/) - Ray is a documentation project spanning multiple software components. It uses several extensions from the Executable Book project. Features are showcased in [this twitter thread](https://twitter.com/readthedocs/status/1663923671470047234). **#sphinx** **#themes** **#large-project**.
 - [Scrapy](https://docs.scrapy.org/) - Embeds a lot of reference snippets and uses `sphinx-hoverxref` for quick reference tooltips. Lots of inspiration to be found in content organization. **#sphinx**.
-- [setuptools](https://setuptools.pypa.io/) - Lots of features, using the Furo theme. **#sphinx** **#themes**.
+- [setuptools](https://setuptools.pypa.io/) - Lots of features, using the Furo theme. [Twitter thread](https://twitter.com/readthedocs/status/1546527820150718469) with some examples. **#sphinx** **#themes**.
 - [sphinx-needs](https://sphinx-needs.readthedocs.io/) - Documentation of `sphinx-needs`. **#sphinx** **#themes**.
 - [sphinx-immaterial](https://sphinx-immaterial.readthedocs.io/) - Documentation of `sphinx-immaterial`, a Material theme for Sphinx, based on Material for MkDocs. **#sphinx** **#themes**.
 - [Uberspace](https://manual.uberspace.de/) - Customized sidebar and footer, adding project's branding through custom CSS and HTML to `sphinx_rtd_theme`. Latest version and release date on front page. **#sphinx** **#themes** **#custom-theme**.
